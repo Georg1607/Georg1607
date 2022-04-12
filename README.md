@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Georg
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Georg
+- 👀 I’m interested in programming, agriculture...
 - 🌱 I’m currently learning python and web development
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 You can reach me under georg_reindl@web.de
